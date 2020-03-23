@@ -1,6 +1,7 @@
 # <img src="assets/app/images/scancode-workbench-logo.png" align="center" alt="ScanCode Workbench">
 
-[![Travis Build Status](https://travis-ci.org/nexB/scancode-workbench.svg?branch=develop)](https://travis-ci.org/nexB/scancode-workbench) 
+[![Travis Build Status](https://travis-ci.org/nexB/scancode-workbench.svg?branch=develop)](https://travis-ci.org/nexB/scancode-workbench) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchauhanparth210%2Fscancode-workbench.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchauhanparth210%2Fscancode-workbench?ref=badge_shield)
+
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/nexB/scancode-workbench)](https://ci.appveyor.com/project/nexB/scancode-workbench)
 
 ScanCode Workbench provides an advanced visual UI to help you quickly evaluate
@@ -102,6 +103,9 @@ $ npm test
 * Multiple licenses (LGPL, MIT, BSD, etc.) for third-party components.
 
 See the NOTICE file for more details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fchauhanparth210%2Fscancode-workbench.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fchauhanparth210%2Fscancode-workbench?ref=badge_large)
 
 ## Support
 
